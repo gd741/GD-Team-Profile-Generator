@@ -11,7 +11,6 @@ Object oriented programming used to create a Team Profile Generator
 - [Screenshot](#screenshot)
 - [Walkthrough Video](#walkthrough-video)
 - [Credits](#Credits)
-- [License](#license)
 
 # User Story
 
@@ -57,44 +56,4 @@ This is a screenshot of the generated HTML webpage.
 - NodeJS: https://nodejs.org/en/
 - Jest: https://www.npmjs.com/package/jest
 - Inquirer: https://www.npmjs.com/package/inquirer
-
-## License
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
