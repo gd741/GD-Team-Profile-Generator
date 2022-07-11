@@ -52,7 +52,6 @@ This is a screenshot of the generated HTML webpage.
 ![Video of Team Generator]()
 
 ## Credits
-- Trilogy Education Services, LLC: https://www.trilogyed.com/ 
 - Bootstrap: https://getbootstrap.com/
 - NodeJS: https://nodejs.org/en/
 - Jest: https://www.npmjs.com/package/jest
