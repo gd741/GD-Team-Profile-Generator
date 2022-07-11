@@ -43,7 +43,7 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Screenshot
-This is a screenshot of the generated HTML webpage.
+Screenshots of the generated HTML page
 
 ![HTML Screenshot of Team Generator]()
 
