@@ -47,7 +47,7 @@ Screenshots of the generated HTML page
 
 ![HTML Screenshot of Team Generator]()
 
-## Walkthrough Video
+## Screencastify Walkthrough Video
 ![Video of Team Generator]()
 
 ## Credits
